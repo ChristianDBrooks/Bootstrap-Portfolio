@@ -23,5 +23,7 @@ body {
 
     nav ul {
         margin: auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 }
